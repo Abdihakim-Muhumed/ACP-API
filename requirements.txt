@@ -1,0 +1,4 @@
+pandas
+sklearn
+Flask
+flask_restx
